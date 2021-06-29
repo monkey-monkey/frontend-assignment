@@ -25,4 +25,4 @@ The assets for UI in figma is the followings:
 
 The expected result of this assessment is expected in format of public github repository.
 
-You can submitted the url by replying to recruitment email.
+You can submit the url by replying to recruitment email.
